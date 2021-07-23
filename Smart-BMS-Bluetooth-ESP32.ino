@@ -72,7 +72,7 @@ const byte cBasicInfo3 = 3; //type of packet 3= basic info
 const byte cCellInfo4 = 4;  //type of packet 4= individual cell info
 
 unsigned long previousMillis = 0;
-const long interval = 4000;
+const long interval = 1000;
 
 bool toggle = false;
 bool newPacketReceived = false;
