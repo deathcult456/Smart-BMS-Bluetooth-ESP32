@@ -1,4 +1,5 @@
 # Smart-BMS-Bluetooth-ESP32 for smart BMS provide by: https://www.lithiumbatterypcb.com/ 
+![githubBMS](https://user-images.githubusercontent.com/20805763/126810677-15c37c82-e9d6-41f2-ac1e-338fe813c8bd.JPG)
 
 Smart-BMS-Bluetooth-ESP32 for hardware: TTGO T5 v213 epaper screen
 
